@@ -1,7 +1,9 @@
 ## Galaxy Developer
 
  Galaxy developer 😃
-  Technology Center ⚙ 
+ 
+ Technology Center ⚙ 
+  
  hardware - medical - Programming ...  🧠
 
 
